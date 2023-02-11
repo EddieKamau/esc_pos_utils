@@ -1,3 +1,7 @@
+## [1.1.1]
+
+- Upgraded image plugin from image: ^3.0.2 to image: ^4.0.13. Thus making it compatible with printing and pdf plugins.
+
 ## [1.1.0]
 
 - Null-Safety
